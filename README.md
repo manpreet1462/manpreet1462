@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm Manpreet Singh, a <br>web developer<br>🧑‍💻 currently in my third year of college🎓.<br>I have strong expertise in React.js, Node.js, MongoDB, and Express.js, <br>and I've successfully developed various projects, which you can check out <br>on my GitHub. I'm currently improving my DevOps skills <br>and have experience working as an devops intern.<br> I'm passionate about learning new technologies, particularly Next.js, <br>and I'm actively seeking opportunities to grow my career in tech. <br>And hey, if you ever need a bug fixed or a joke cracked, I'm your guy!😁
+I'm Manpreet Singh, a web developer🧑‍💻 currently in my third year of college🎓.<br>I have strong expertise in React.js, Node.js, MongoDB, and Express.js, <br>and I've successfully developed various projects, which you can check out <br>on my GitHub. I'm currently improving my DevOps skills <br>and have experience working as an devops intern.<br> I'm passionate about learning new technologies, particularly Next.js, <br>and I'm actively seeking opportunities to grow my career in tech. <br>And hey, if you ever need a bug fixed or a joke cracked, I'm your guy!😁
 
 
 ## 🌐 Socials:
